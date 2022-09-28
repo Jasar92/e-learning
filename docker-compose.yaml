@@ -6,4 +6,4 @@ services:
     container_name: my_app
     image: aimvector/app_test:1.0.0
     ports:
-     - 5000:5000
+     - 8000:8000
